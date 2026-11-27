@@ -1,0 +1,40 @@
+---
+title: "Ting's group homepage"
+---
+
+# Dr. Ting MA
+
+**Researcher | Pollen | Ecology | Environmental Science**
+
+Welcome to my academic website!
+
+I am a researcher interested in pollen, climate change,
+and paleoecology.
+
+## About Me
+
+I am interested in understanding the relationships
+between climate, and environmental
+changes through pollen analysis and related
+paleoecological approaches.
+
+## Research Interests
+
+- Pollen analysis and palynology
+- Vegetation and climate interactions
+- Paleoecology
+- Environmental change
+- Quaternary science
+
+## News
+
+- 2026: Welcome to my academic website!
+
+## Contact
+
+Email: tma@bnu.edu.cn
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=rMweiAkAAAAJ&hl=en)
+- [GitHub](https://github.com/TingMA-pollen)

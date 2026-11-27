@@ -1,0 +1,31 @@
+/* General appearance */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: #333333;
+}
+
+/* Main content */
+main {
+  max-width: 900px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #234765;
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #2878A5;
+}
+
+a:hover {
+  color: #164B6B;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #eeeeee;
+}
